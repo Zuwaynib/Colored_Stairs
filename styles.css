@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: brown;
+}
+
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 0;
+}
+
+.stairs {
+  width: 400px;
+  height: 30px;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+}
+
+.rail {
+  height: 30px;
+}
+
+.one {
+  width: 60px;
+  background: linear-gradient(rgb(153, 0, 0), rgb(255, 87, 51), rgb(255, 0, 0));
+}
+
+.two {
+  width: 100px;
+  background: linear-gradient( #FFA500, #FFC04D, #FFE680);
+}
+
+.three {
+  width: 160px;
+  background: linear-gradient(rgb(255, 255, 0), rgb(204, 204, 0), rgb(255, 255, 102));
+}
+
+.four {
+  width: 220px;
+  background: linear-gradient(rgb(0, 51, 0), rgb(76, 175, 80), rgb(0, 255, 0));
+}
+
+.five {
+  width: 280px;
+  background: linear-gradient(#01031b, #030b3f, #091c86);
+}
+
+.six {
+  width: 340px;
+  background: linear-gradient(#01031b, #030b3f, #091c86);
+}
+
+.seven {
+  width: 400px;
+  background: linear-gradient(#4A148C, #8E24AA, #D500F9);
+}
+
+
